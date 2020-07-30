@@ -1,6 +1,5 @@
 /*
  * @student Aaqib Tariq
- * @class CISC 1170
  * @Description: we will analyze the rise in temperature over the last 200 
     years. This is known as global warming or climate change. The National 
     Weather Service maintains historical data on the average monthly & annual 
